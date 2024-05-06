@@ -1,26 +1,42 @@
-# Project Title
+# Hello, I'm [Sooraj Gupta]! 👋
 
-Brief description or introduction of your project.
+I'm a [Your Profession] passionate about [Your Interests]. Here you'll find some of the projects I've been working on.
 
-## Table of Contents
+## About Me
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- 🌍 Current Location: [Benguluru, Karnataka]
+- 💼 Currently Trainee in Advance Digital Design and Verification at: [Maven Silicon]
+- 🎓 Studied at: [Dr. BR Ambedkar National Institute of technology, Jalandhar]
 
-## Installation
+## Skills
 
-Provide instructions on how to install and set up your project. Include any dependencies that need to be installed and how to install them.
+- Programming languages: [Python]
 
-## Usage
+- Hardware Description Languages [Verilog HDL]
+- Hardware Verification Language [System Verilog]
+- Verification Methodology [Constraint Random Coverage Driven Verification (CRCDV), Assertion based Verification]
+- TB Methodology [UVM Methodology]
+- EDA Tools & Technologies [LTSpice, Xilinx-ISE Design, Mentor Graphics- Questasim, VC Spyglass Lint, Synopsys- VCS, GVim]
+- Knowledge [Digital Electronics, STA, FPGA Architecture, ASIC and FPGA Design Flow]
+- Soft Skills [Poise, Time Management, Teamwork, Communication, Accountability]
+## Projects
 
-Explain how to use your project. Provide examples or code snippets if necessary.
+Here are some highlights of my projects:
 
-## Contributing
+- [Project 1](link): Brief description.
+- [Project 2](link): Brief description.
+- [Project 3](link): Brief description.
 
-If you want others to contribute to your project, include guidelines for them here. This could include how to report issues, how to set up the development environment, coding standards, etc.
+## Get in Touch
 
-## License
+- LinkedIn: [https://www.linkedin.com/in/sooraj-gupta-b49914237](link)
 
-Include information about the license for your project. Choose a license that suits your needs and include any necessary disclaimers or copyright notices.
+- Personal Website: [Your Website](link)
+- Email: [Your Email Address](mailto:youremail@example.com)
+
+Feel free to reach out to me if you have any questions or just want to connect!
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
