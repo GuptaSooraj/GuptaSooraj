@@ -10,7 +10,7 @@ I'm a VLSI trainee at Maven Silicon, 2023 graduate from NIT Jalandhar passionate
 - 🎓 B.tech in VLSI Design at: Rajkiya Engineering College, Sonbhadra
 ## Skills
 
-- ## Programming Languages: [Python] 
+- **Programming Languages**: Python 
 - Hardware Description Languages: Verilog HDL 
 - Hardware Verification Language: System Verilog 
 - Verification Methodology: Constraint Random Coverage Driven Verification (CRCDV), Assertion based Verification
