@@ -1,6 +1,6 @@
-# Hello, I'm [Sooraj Gupta]! 👋
+# Hello, I'm Sooraj Gupta! 👋
 
-I'm a [Your Profession] passionate about [Your Interests]. Here you'll find some of the projects I've been working on.
+I'm a VLSI trainee at Maven Silicon, 2023 graduate from NIT Jalandhar passionate about VLSI Industry. Here you'll find some of the projects I've been working on.
 
 ## About Me
 
