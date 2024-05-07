@@ -10,11 +10,11 @@ I'm a VLSI trainee at Maven Silicon, 2023 graduate from NIT Jalandhar passionate
 - 🎓 B.tech in VLSI Design at: Rajkiya Engineering College, Sonbhadra
 ## Skills
 
-- Programming languages: Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- Hardware Description Languages: Verilog HDL ![Verilog](https://cdn.icon-icons.com/icons2/2415/PNG/512/verilog_plain_wordmark_logo_icon_146279.png)
-- Hardware Verification Language: System Verilog ![SystemVerilog](https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg)
+- Programming languages: Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
+- Hardware Description Languages: Verilog HDL <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/verilog_plain_wordmark_logo_icon_146279.png" alt="Verilog" width="20" height="20"/>
+- Hardware Verification Language: System Verilog <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg" alt="SystemVerilog" width="20" height="20"/>
 - Verification Methodology: Constraint Random Coverage Driven Verification (CRCDV), Assertion based Verification
-- TB Methodology: UVM Methodology ![UVM](https://www.eda.ncsu.edu/wiki/images/0/07/UVM_Logo.png)
+- TB Methodology: UVM Methodology <img src="https://www.eda.ncsu.edu/wiki/images/0/07/UVM_Logo.png" alt="UVM" width="20" height="20"/>
 - EDA Tools & Technologies: LTSpice, Xilinx-ISE Design, Mentor Graphics- Questasim, VC Spyglass Lint, Synopsys- VCS, GVim
 - Subject Expertise: Digital Electronics, STA, FPGA Architecture, ASIC and FPGA Design Flow
 - Soft Skills: Time Management, Teamwork, Communication, Accountability
