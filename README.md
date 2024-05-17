@@ -22,12 +22,12 @@ I'm a VLSI trainee at Maven Silicon, 2023 graduate from NIT Jalandhar passionate
 
 Here are some highlights of my projects:
 
-- [Project 1](https://www.edaplayground.com/x/M4Yr)(https://www.edaplayground.com/x/rg8r): Implementation of [7-4] hamming encoder and decoder.
+- [Implementation of [7-4] hamming encoder and decoder]
     * Three parity bits are included in four-bit data making it a 7-bit hamming encoded data.
     * Parity bits are evaluated as P1(1,2,4), P2(1,3,4),P3(2,3,4) at position 1st, 2nd and 4th respectively.
     * C1(P1,d1,d2,d4), C2(P2,d1,d3,d4), C3(P3,d2,d3,d4) are evaluated to detect the position of error if C3,  C2,C1 is 3’b0 then no error else there is error at the respective position indicated by C3,C2,C1.
     * Design technique is limited to detecting and correcting single-bit errors
-- [Project 2](https://www.edaplayground.com/x/DnBY): 64x64 Memory Design for reading and writing the operation is controlled by the test bench.
+- [64x64 Memory Design for reading and writing the operation is controlled by the test bench]
     * To address 64 locations we have 6 bits register for the address variable.
     * A data bus is defined as a two-way communication link declared as input and output of the design, input during the writing process, and output during the reading process.
     * Memory read and write signals are sent by a test bench for reading and writing operations respectively.
